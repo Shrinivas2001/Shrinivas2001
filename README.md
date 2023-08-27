@@ -1,7 +1,11 @@
 👋 Hi, I’m Shrinivas Kulkarni
+<br>
 👀 I’m interested in Data Analytics
+<br>
 🌱 I’m currently doing Master Of Computer Applications
+<br>
 📫 How to reach me ... kulkarnishrinivas850@gmail.com
+<br>
 💞️ I’m looking  on ...
 
 <!---
