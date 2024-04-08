@@ -4,7 +4,7 @@
 <br>
 🌱 I’m currently doing Master Of Computer Applications
 <br>
-📫 How to reach me ... kulkarnishrinivas850@gmail.com
+📫 How to reach me ... kulkarnishrinivas2001@gmail.com
 <br>
 💞️ I’m looking  on ...
 
