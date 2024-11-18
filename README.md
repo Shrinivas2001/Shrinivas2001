@@ -1,6 +1,6 @@
 👋 Hi, I’m Shrinivas Kulkarni
 <br>
-👀 I’m interested in Data Analytics
+👀 I’m interested in Java Backend Development 
 <br>
 🌱 I’m currently doing Master Of Computer Applications
 <br>
