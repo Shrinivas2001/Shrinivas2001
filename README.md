@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Shrinivas Kulkarni
 
-💻 **Software Engineer | Java Backend Developer | React + TypeScript | MCA Student**  
+💻 **Software Engineer | Java Backend Developer | React + TypeScript | MCA Graduate**  
 🚀 Building scalable, secure, and enterprise-grade full-stack applications
 
 ---
